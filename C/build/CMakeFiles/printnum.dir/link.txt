@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/printnum.dir/src/printnum.c.o -o printnum 

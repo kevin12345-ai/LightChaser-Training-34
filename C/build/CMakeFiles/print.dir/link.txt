@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/print.dir/src/print.c.o -o print 

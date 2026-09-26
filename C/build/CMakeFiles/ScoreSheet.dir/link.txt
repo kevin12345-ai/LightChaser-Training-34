@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ScoreSheet.dir/src/score_sheet.c.o -o ScoreSheet 
