@@ -1,8 +1,8 @@
-/home/kevin/Chasing_light/C/build/CMakeFiles/Hello_world.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/Calculator.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/printnum.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/Sum.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/Swap.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/ScoreSheet.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/edit_cache.dir
-/home/kevin/Chasing_light/C/build/CMakeFiles/rebuild_cache.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/Hello_world.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/Calculator.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/printnum.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/Sum.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/Swap.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/ScoreSheet.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/edit_cache.dir
+/home/kevin/LightChaser-Training-34/C/build/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-# Install script for directory: /home/kevin/Chasing_light/C
+# Install script for directory: /home/kevin/LightChaser-Training-34/C
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kevin/Chasing_light/C/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kevin/LightChaser-Training-34/C/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

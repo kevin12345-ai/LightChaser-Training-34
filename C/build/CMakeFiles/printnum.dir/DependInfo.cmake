@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/kevin/Chasing_light/C/src/printnum.c" "CMakeFiles/printnum.dir/src/printnum.c.o" "gcc" "CMakeFiles/printnum.dir/src/printnum.c.o.d"
+  "/home/kevin/LightChaser-Training-34/C/src/printnum.c" "CMakeFiles/printnum.dir/src/printnum.c.o" "gcc" "CMakeFiles/printnum.dir/src/printnum.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kevin/Chasing_light/C
+CMAKE_SOURCE_DIR = /home/kevin/LightChaser-Training-34/C
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kevin/Chasing_light/C/build
+CMAKE_BINARY_DIR = /home/kevin/LightChaser-Training-34/C/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -91,14 +91,14 @@ clean: CMakeFiles/ScoreSheet.dir/clean
 CMakeFiles/Hello_world.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello_world.dir/build.make CMakeFiles/Hello_world.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello_world.dir/build.make CMakeFiles/Hello_world.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/Chasing_light/C/build/CMakeFiles --progress-num=3,4 "Built target Hello_world"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/LightChaser-Training-34/C/build/CMakeFiles --progress-num=3,4 "Built target Hello_world"
 .PHONY : CMakeFiles/Hello_world.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Hello_world.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Hello_world.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 0
 .PHONY : CMakeFiles/Hello_world.dir/rule
 
 # Convenience name for target.
@@ -117,14 +117,14 @@ CMakeFiles/Hello_world.dir/clean:
 CMakeFiles/Calculator.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Calculator.dir/build.make CMakeFiles/Calculator.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Calculator.dir/build.make CMakeFiles/Calculator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/Chasing_light/C/build/CMakeFiles --progress-num=1,2 "Built target Calculator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/LightChaser-Training-34/C/build/CMakeFiles --progress-num=1,2 "Built target Calculator"
 .PHONY : CMakeFiles/Calculator.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Calculator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Calculator.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 0
 .PHONY : CMakeFiles/Calculator.dir/rule
 
 # Convenience name for target.
@@ -143,14 +143,14 @@ CMakeFiles/Calculator.dir/clean:
 CMakeFiles/printnum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/printnum.dir/build.make CMakeFiles/printnum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/printnum.dir/build.make CMakeFiles/printnum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/Chasing_light/C/build/CMakeFiles --progress-num=11,12 "Built target printnum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/LightChaser-Training-34/C/build/CMakeFiles --progress-num=11,12 "Built target printnum"
 .PHONY : CMakeFiles/printnum.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/printnum.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/printnum.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 0
 .PHONY : CMakeFiles/printnum.dir/rule
 
 # Convenience name for target.
@@ -169,14 +169,14 @@ CMakeFiles/printnum.dir/clean:
 CMakeFiles/Sum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Sum.dir/build.make CMakeFiles/Sum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Sum.dir/build.make CMakeFiles/Sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/Chasing_light/C/build/CMakeFiles --progress-num=7,8 "Built target Sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/LightChaser-Training-34/C/build/CMakeFiles --progress-num=7,8 "Built target Sum"
 .PHONY : CMakeFiles/Sum.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Sum.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Sum.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 0
 .PHONY : CMakeFiles/Sum.dir/rule
 
 # Convenience name for target.
@@ -195,14 +195,14 @@ CMakeFiles/Sum.dir/clean:
 CMakeFiles/Swap.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Swap.dir/build.make CMakeFiles/Swap.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Swap.dir/build.make CMakeFiles/Swap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/Chasing_light/C/build/CMakeFiles --progress-num=9,10 "Built target Swap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/LightChaser-Training-34/C/build/CMakeFiles --progress-num=9,10 "Built target Swap"
 .PHONY : CMakeFiles/Swap.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Swap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Swap.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 0
 .PHONY : CMakeFiles/Swap.dir/rule
 
 # Convenience name for target.
@@ -221,14 +221,14 @@ CMakeFiles/Swap.dir/clean:
 CMakeFiles/ScoreSheet.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ScoreSheet.dir/build.make CMakeFiles/ScoreSheet.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ScoreSheet.dir/build.make CMakeFiles/ScoreSheet.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/Chasing_light/C/build/CMakeFiles --progress-num=5,6 "Built target ScoreSheet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kevin/LightChaser-Training-34/C/build/CMakeFiles --progress-num=5,6 "Built target ScoreSheet"
 .PHONY : CMakeFiles/ScoreSheet.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ScoreSheet.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ScoreSheet.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Chasing_light/C/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/LightChaser-Training-34/C/build/CMakeFiles 0
 .PHONY : CMakeFiles/ScoreSheet.dir/rule
 
 # Convenience name for target.

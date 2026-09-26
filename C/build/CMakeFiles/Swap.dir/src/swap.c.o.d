@@ -1,4 +1,5 @@
-CMakeFiles/Swap.dir/src/swap.c.o: /home/kevin/Chasing_light/C/src/swap.c \
+CMakeFiles/Swap.dir/src/swap.c.o: \
+ /home/kevin/LightChaser-Training-34/C/src/swap.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

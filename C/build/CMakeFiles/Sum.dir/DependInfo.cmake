@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/kevin/Chasing_light/C/src/sum.c" "CMakeFiles/Sum.dir/src/sum.c.o" "gcc" "CMakeFiles/Sum.dir/src/sum.c.o.d"
+  "/home/kevin/LightChaser-Training-34/C/src/sum.c" "CMakeFiles/Sum.dir/src/sum.c.o" "gcc" "CMakeFiles/Sum.dir/src/sum.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

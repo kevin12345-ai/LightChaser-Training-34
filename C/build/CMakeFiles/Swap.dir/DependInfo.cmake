@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/kevin/Chasing_light/C/src/swap.c" "CMakeFiles/Swap.dir/src/swap.c.o" "gcc" "CMakeFiles/Swap.dir/src/swap.c.o.d"
+  "/home/kevin/LightChaser-Training-34/C/src/swap.c" "CMakeFiles/Swap.dir/src/swap.c.o" "gcc" "CMakeFiles/Swap.dir/src/swap.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
