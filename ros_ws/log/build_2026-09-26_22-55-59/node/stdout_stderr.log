@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/node/node.egg-info/PKG-INFO
+writing dependency_links to ../../build/node/node.egg-info/dependency_links.txt
+writing entry points to ../../build/node/node.egg-info/entry_points.txt
+writing requirements to ../../build/node/node.egg-info/requires.txt
+writing top-level names to ../../build/node/node.egg-info/top_level.txt
+reading manifest file '../../build/node/node.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/node/node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying node/node_publisher.py -> /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node
+running install
+running install_lib
+copying /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node/node_publisher.py -> /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node
+byte-compiling /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node/node_publisher.py to node_publisher.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/node/node.egg-info to /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node-0.0.0-py3.12.egg-info
+running install_scripts
+Installing node_publisher script to /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/node
+Installing node_subscriber script to /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/node
+writing list of installed files to '/home/kevin/LightChaser-Training-34/ros_ws/build/node/install.log'

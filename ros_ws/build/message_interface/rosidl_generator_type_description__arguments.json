@@ -1,0 +1,7 @@
+{
+  "package_name": "message_interface",
+  "output_dir": "/home/kevin/LightChaser-Training-34/ros_ws/build/message_interface/rosidl_generator_type_description/message_interface",
+  "idl_tuples": [
+    "/home/kevin/LightChaser-Training-34/ros_ws/build/message_interface/rosidl_adapter/message_interface:msg/NodeMessage.idl"
+  ]
+}

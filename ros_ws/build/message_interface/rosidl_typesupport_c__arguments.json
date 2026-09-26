@@ -1,0 +1,17 @@
+{
+  "package_name": "message_interface",
+  "output_dir": "/home/kevin/LightChaser-Training-34/ros_ws/build/message_interface/rosidl_typesupport_c/message_interface",
+  "template_dir": "/opt/ros/jazzy/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/kevin/LightChaser-Training-34/ros_ws/build/message_interface/rosidl_adapter/message_interface:msg/NodeMessage.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/jazzy/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/opt/ros/jazzy/lib/python3.12/site-packages/rosidl_typesupport_c/__init__.py",
+    "/opt/ros/jazzy/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/kevin/LightChaser-Training-34/ros_ws/build/message_interface/rosidl_adapter/message_interface/msg/NodeMessage.idl"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "message_interface__py",
+		"source" : "/home/kevin/LightChaser-Training-34/ros_ws/build/message_interface/message_interface__py"
+	}
+}

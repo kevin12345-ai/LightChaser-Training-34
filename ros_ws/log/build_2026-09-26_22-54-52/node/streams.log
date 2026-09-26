@@ -1,0 +1,42 @@
+[0.488s] Invoking command in '/home/kevin/LightChaser-Training-34/ros_ws/src/node': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/kevin/LightChaser-Training-34/ros_ws/install/message_interface/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/kevin/LightChaser-Training-34/ros_ws/build/node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages:/home/kevin/LightChaser-Training-34/ros_ws/install/message_interface/lib/python3.12/site-packages:/home/kevin/LightChaser-Training-34/ros_ws/src/node/install/node/lib/python3.12/site-packages:/home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/node build --build-base /home/kevin/LightChaser-Training-34/ros_ws/build/node/build install --record /home/kevin/LightChaser-Training-34/ros_ws/build/node/install.log --install-scripts $base/lib/node --single-version-externally-managed install_data
+[0.648s] running egg_info
+[0.648s] creating ../../build/node/node.egg-info
+[0.659s] writing ../../build/node/node.egg-info/PKG-INFO
+[0.659s] writing dependency_links to ../../build/node/node.egg-info/dependency_links.txt
+[0.659s] writing entry points to ../../build/node/node.egg-info/entry_points.txt
+[0.659s] writing requirements to ../../build/node/node.egg-info/requires.txt
+[0.659s] writing top-level names to ../../build/node/node.egg-info/top_level.txt
+[0.659s] writing manifest file '../../build/node/node.egg-info/SOURCES.txt'
+[0.680s] reading manifest file '../../build/node/node.egg-info/SOURCES.txt'
+[0.680s] adding license file 'LICENSE'
+[0.681s] writing manifest file '../../build/node/node.egg-info/SOURCES.txt'
+[0.681s] running build
+[0.681s] running build_py
+[0.681s] creating /home/kevin/LightChaser-Training-34/ros_ws/build/node/build
+[0.681s] creating /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib
+[0.681s] creating /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node
+[0.681s] copying node/node_subscriber.py -> /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node
+[0.681s] copying node/__init__.py -> /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node
+[0.681s] copying node/node_publisher.py -> /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node
+[0.682s] running install
+[0.686s] running install_lib
+[0.697s] creating /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node
+[0.697s] copying /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node/node_subscriber.py -> /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node
+[0.698s] copying /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node/__init__.py -> /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node
+[0.698s] copying /home/kevin/LightChaser-Training-34/ros_ws/build/node/build/lib/node/node_publisher.py -> /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node
+[0.698s] byte-compiling /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node/node_subscriber.py to node_subscriber.cpython-312.pyc
+[0.698s] byte-compiling /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node/__init__.py to __init__.cpython-312.pyc
+[0.698s] byte-compiling /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node/node_publisher.py to node_publisher.cpython-312.pyc
+[0.698s] running install_data
+[0.698s] creating /home/kevin/LightChaser-Training-34/ros_ws/install/node/share/ament_index
+[0.699s] creating /home/kevin/LightChaser-Training-34/ros_ws/install/node/share/ament_index/resource_index
+[0.699s] creating /home/kevin/LightChaser-Training-34/ros_ws/install/node/share/ament_index/resource_index/packages
+[0.699s] copying resource/node -> /home/kevin/LightChaser-Training-34/ros_ws/install/node/share/ament_index/resource_index/packages
+[0.699s] copying package.xml -> /home/kevin/LightChaser-Training-34/ros_ws/install/node/share/node
+[0.699s] running install_egg_info
+[0.711s] Copying ../../build/node/node.egg-info to /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages/node-0.0.0-py3.12.egg-info
+[0.711s] running install_scripts
+[0.785s] Installing node_publisher script to /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/node
+[0.785s] Installing node_subscriber script to /home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/node
+[0.785s] writing list of installed files to '/home/kevin/LightChaser-Training-34/ros_ws/build/node/install.log'
+[0.802s] Invoked command in '/home/kevin/LightChaser-Training-34/ros_ws/src/node' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/kevin/LightChaser-Training-34/ros_ws/install/message_interface/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/kevin/LightChaser-Training-34/ros_ws/build/node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages:/home/kevin/LightChaser-Training-34/ros_ws/install/message_interface/lib/python3.12/site-packages:/home/kevin/LightChaser-Training-34/ros_ws/src/node/install/node/lib/python3.12/site-packages:/home/kevin/LightChaser-Training-34/ros_ws/install/node/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/node build --build-base /home/kevin/LightChaser-Training-34/ros_ws/build/node/build install --record /home/kevin/LightChaser-Training-34/ros_ws/build/node/install.log --install-scripts $base/lib/node --single-version-externally-managed install_data

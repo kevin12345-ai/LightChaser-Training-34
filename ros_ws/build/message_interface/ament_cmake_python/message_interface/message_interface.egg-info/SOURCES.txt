@@ -1,0 +1,8 @@
+setup.py
+message_interface/__init__.py
+message_interface.egg-info/PKG-INFO
+message_interface.egg-info/SOURCES.txt
+message_interface.egg-info/dependency_links.txt
+message_interface.egg-info/top_level.txt
+message_interface/msg/__init__.py
+message_interface/msg/_node_message.py
